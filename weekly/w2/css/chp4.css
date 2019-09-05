@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/*CSS DOCUMENT */
+
+body { 
+		background-color: #B9997D; 
+		margin:0 10%; font-family: sans-serif; 
+	   
+	 }
+		
+h1 
+	{ 
+	
+		text-align: center; 
+		font-family: serif; 
+		font-weight: normal; 
+		text-transform: uppercase; 
+		border-bottom: 1px solid #000000; 
+		margin-top: 30px;
+		padding-bottom: 50px;
+	}
+	
+h2
+	{
+		
+	color: #6A090A;	
+		
+	
+		
+	}
+	
+em	
+	{
+	
+		font-family: monospace;
+	
+	
+	}
