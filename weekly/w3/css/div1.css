@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+/*CSS Document*/
+
+
+body {
+	
+	background-color #605F51;
+	
+	
+	
+}
+	#wrapper {
+		background-color: #E4DADB;
+		width: 90%;
+		
+		
+	}
+	
+	header {
+		
+		background-color: #B2C6A0;
+		
+	}
+	
+	article {
+		background-color: #5A7B7E;
+		margin-left: 30px;
+	}
+	
+	
+	footer { 
+		background-color: #774F50;
+		
+		width: 75%;
+	}
+	
+	#logo {
+		
+	background-color : #5A7B7E;
+	width : 100px;
+	float : left;
+	}
+
+	nav {
+		
+		background-color: #B2C6A0;
+		width : 200px;
+		
+	}
+	
+	
+	
+		
+		
