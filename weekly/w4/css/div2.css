@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+/*CSS Document*/
+
+
+body{
+	
+	background-color: #546382;
+	font-family: "sans-serif";
+	color: white;
+
+}
+
+h1 {
+
+font-size: 2.5em; 
+font-weight: bold;
+border-bottom: 1px solid white;
+color: f4f1d0;
+width: 690px;
+}
+
+
+h2 {
+	
+font-size: 1.8em;
+width : 440px;
+font-weight: bold;
+color: f4f1d0;
+}
+
+
+h3 {
+	
+width: 690px;	
+	
+}
+
+h4{
+	
+border-bottom: 1px solid white;
+width: 690px;	
+}
+
+
+#wrapper {
+	margin-left: 175px;
+	margin-right: 95px;
+	
+
+
+}
+
+
+header { 
+
+margin-bottom: 64pxl; 
+
+}
+
+section {
+	
+margin-bottom: 37 px;	
+	
+}
+
+#content {
+	
+margin-bottom: 690px;
+
+
+}
+
+#origins{
+	
+margin-left: 80px;
+width: 610px;	
+color: e3e1c7;
+}
+
+
+footer {
+	
+	
+}
