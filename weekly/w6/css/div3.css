@@ -59,6 +59,8 @@ header {
 	margin-left: 10px;
 	width: 980px;
 	float:left;
+	border-bottom: solid #7A7A7A;
+	
 }
 
 
@@ -68,6 +70,7 @@ main{
 	margin-top:40px;
 	float: left;
 	margin-bottom: 80px;
+	border-bottom: solid #7A7A7A;
 }
 
 
