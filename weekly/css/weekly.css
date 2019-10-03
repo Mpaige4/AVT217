@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link {
+	text-decoration: none;
+	text-decoration-color: aquamarine;
+	
+}
+
+
+
+a:visited {
+	color: azure;
+	
+}
+
+
+
+a:hover {
+	background-color: antiquewhite;
+	text-decoration: underline;
+	
+}
+
+
+a: active {
+	color: cyan;
+	
+}
