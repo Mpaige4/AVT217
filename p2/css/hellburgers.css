@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-color: 161a1f;
 }
 ol, ul {
 	list-style: none;
@@ -120,7 +121,7 @@ article{
 
 .column {
 padding-top: 50px;
-height: 500px;
+height: 250px;
 width: 450px;
 padding-left: 50px;
 float: left;
@@ -152,5 +153,42 @@ h1 {
 
 
 p {
+	text-align: center;
+}
+
+#burgers{
+
+	width: auto;
+	float: left;
+
+}
+
+#burgerheader
+{
+	padding-left: 550px;
+	padding-right: 550px;
+
+}
+
+#columns2
+{
+	padding-left: 300px;
+}
+
+.column2 {
+padding-top: 50px;
+height: 300px;
+width: 400px;
+float: left;
+background-color: 161a1f;
+
+
+}
+
+footer{
+
+	font-size: 20px;
+	color: d8b604;
+	font-family:serif;
 	text-align: center;
 }
