@@ -68,7 +68,7 @@ margin-right: 100px;
 header {
 	width: 100%;
 	height: 600px;
-	background-image: url("../burgerlogo.PNG");
+	background-image: url("burgerlogo.PNG");
 	background-repeat: no-repeat;
 
 	  background-size: cover;
@@ -139,7 +139,7 @@ h1 {
 
 .parallax {
   /* The image used */
-  background-image: url("../burgerpic2.jpg");
+  background-image: url("burgerpic2.jpg");
 
   /* Set a specific height */
   height: 500px;
