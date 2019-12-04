@@ -1,0 +1,192 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+#wrapper{
+
+height: auto ;
+
+background-image: url("../img/triangle-mosaic.PNG");
+
+}
+
+header{
+
+	width: 80%;
+	height: 100px;
+
+
+
+	display:inline-block;
+    vertical-align:middle;
+
+
+
+}
+
+
+
+
+#logo{
+width: 100px;
+height: 100px;
+}
+
+nav {
+width: inherit;
+float: right;
+background-color: #6BBBDE;
+height: 100%;
+font-size: 40px;
+
+}
+
+ul {
+	float: right;
+	padding-right: 40%;
+	width: 30%;
+	padding-top: 3%;
+
+
+}
+
+li {
+	float: right;
+	font-size: 80%;
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 5%
+}
+
+@media only screen and (max-width: 1000px)
+{
+	ul {
+	width: 20%;
+
+	}
+}
+
+#imagelinks
+{
+	padding-top: 100px;
+	width: 100%;
+	height: 50%;
+	margin-left: 35%;
+
+
+}
+
+
+
+#aboutme
+{
+
+}
+
+#contact
+{
+padding-top: 100px;
+ text-align: center;
+
+}
+
+#resume {
+
+}
+
+
+
+.column {
+	float: left;
+	padding-right: 40px;
+
+}
+
+#socials {
+margin-left: 25%;
+padding-top: 100px;
+}
+
+
+
+.column2
+{
+	float: left;
+	padding-right: 10%;
+
+
+}
+
+
+h1 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
+	padding-top: 5%;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
+	padding-top: 5%;
+}
+
+p {
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px;
+
+}
